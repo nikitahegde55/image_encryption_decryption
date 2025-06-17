@@ -22,7 +22,7 @@ A secure and elegant web application built using Flask that allows users to encr
 ✅ Installation Instructions
 
 Clone the Repository
-git clone https://github.com/nikitahegde55/image-encrypt-decrypt.git
+git clone https://github.com/nikitahegde55/encrypt-decrypt.git
 cd image-encrypt-decrypt
 
 Install Python Dependencies
